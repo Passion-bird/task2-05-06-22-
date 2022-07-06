@@ -1,0 +1,20 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+.btn{
+background:linear-gradient(140deg, #f30c80 30%,#9c03c2 );
+outline: transparent;
+border:none;
+border-width: 0;
+
+}
+
+    .btn:active, .btn:focus, .btn:active:focus, .btn.active:focus {
+        outline: none !important;
+        border: none;
+    }
